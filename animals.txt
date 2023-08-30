@@ -1,4 +1,4 @@
-M Muskrat
+M Mole
 N Newt
 O Onager
 P Panda
